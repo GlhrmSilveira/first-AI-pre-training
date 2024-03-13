@@ -16,3 +16,9 @@ Why Colab? <br>
 <br>
 Colab only needs a Google account, it is 100% free INCLUDING A GOOD GPU to initially use in small systems but unfortunately it has memory limitations... But it is an excellent environment for data science, it has several Python libs installed, based on jupyter notebook concepts, .ipynb files, VM in Linux... but unfortunately it is a single "ephemeral" session<br>
 🇧🇷🇵🇹 Colab só precisa de uma conta google, ele é 100% gratutito INCLUINDO UM BOA GPU para inicialmente usar em pequenos sistemas mas infelizmente possui limitação de memoria... Mas é um excelente ambiente para data science, possui diversar libs do python instaladas, baseado em conceitos de notebook do jupyter, arquivos .ipynb, VM em Linux... porém infelizmente ele é sessão unica "efêmera "
+<br>
+<br>
+Have a Link to facebook repo where you take the model? <br>
+🇧🇷🇵🇹 Tem o link do repo do facebook onde você pegou esse model?<br>
+<br>
+https://github.com/facebookresearch/pytorch_GAN_zoo
